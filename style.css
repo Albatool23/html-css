@@ -1,0 +1,62 @@
+
+body {
+    background-image: url("background-image.png"); 
+  }
+
+  h4 {
+    text-align:center; 
+    
+
+
+  }
+
+  h5 {
+    text-align:center; 
+  }
+
+  p{
+    text-align:center; 
+    font-family: 'Grape Nuts', cursive;
+  }
+  
+
+
+
+  img {
+    width: 120px;
+    height: 120px;
+
+  }
+  
+  div.fexid {
+    position: fixed;
+    right: inherit;
+    
+  }
+
+
+  table,td, th {
+    border: 1px solid;
+    
+
+    
+  }
+
+  th , td {
+
+    border: 1px solid;
+
+    width: 70%;
+    
+    
+  }
+
+  ul  {
+    border: 1px solid;
+   
+  
+  }
+  
+  
+
+
